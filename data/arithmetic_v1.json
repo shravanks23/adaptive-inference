@@ -1,0 +1,102 @@
+[
+    {
+        "id": "A01",
+        "question": "What is 17 + 28?",
+        "answer": "45"
+    },
+    {
+        "id": "A02",
+        "question": "What is 64 - 29?",
+        "answer": "35"
+    },
+    {
+        "id": "A03",
+        "question": "What is 12 * 13?",
+        "answer": "156"
+    },
+    {
+        "id": "A04",
+        "question": "What is 144 / 12?",
+        "answer": "12"
+    },
+    {
+        "id": "A05",
+        "question": "What is 37 + 46?",
+        "answer": "83"
+    },
+    {
+        "id": "A06",
+        "question": "What is 91 - 57?",
+        "answer": "34"
+    },
+    {
+        "id": "A07",
+        "question": "What is 16 * 7?",
+        "answer": "112"
+    },
+    {
+        "id": "A08",
+        "question": "What is 225 / 15?",
+        "answer": "15"
+    },
+    {
+        "id": "A09",
+        "question": "What is 125 + 378?",
+        "answer": "503"
+    },
+    {
+        "id": "A10",
+        "question": "What is 500 - 268?",
+        "answer": "232"
+    },
+    {
+        "id": "A11",
+        "question": "What is 24 * 9?",
+        "answer": "216"
+    },
+    {
+        "id": "A12",
+        "question": "What is 196 / 14?",
+        "answer": "14"
+    },
+    {
+        "id": "A13",
+        "question": "What is 48 + 67?",
+        "answer": "115"
+    },
+    {
+        "id": "A14",
+        "question": "What is 83 - 38?",
+        "answer": "45"
+    },
+    {
+        "id": "A15",
+        "question": "What is 32 * 14?",
+        "answer": "448"
+    },
+    {
+        "id": "A16",
+        "question": "What is 324 / 18?",
+        "answer": "18"
+    },
+    {
+        "id": "A17",
+        "question": "What is 456 + 289?",
+        "answer": "745"
+    },
+    {
+        "id": "A18",
+        "question": "What is 1000 - 476?",
+        "answer": "524"
+    },
+    {
+        "id": "A19",
+        "question": "What is 27 * 16?",
+        "answer": "432"
+    },
+    {
+        "id": "A20",
+        "question": "What is 672 / 21?",
+        "answer": "32"
+    }
+]

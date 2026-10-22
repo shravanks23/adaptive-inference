@@ -1,0 +1,22 @@
+
+experiment:
+  name: qwen3_baseline_v1
+  seed: 42
+
+model:
+  name: Qwen/Qwen3-0.6B
+  dtype: float16
+  device: mps
+
+generation:
+  max_new_tokens: 64
+  do_sample: false
+  enable_thinking: false
+
+benchmark:
+  warmup_runs: 2
+  measured_runs: 5
+
+evaluation:
+  dataset: arithmetic_v1
+  examples: 20

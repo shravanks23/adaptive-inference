@@ -4,6 +4,7 @@ __pycache__/
 .env
 .DS_Store
 models/
-data/
+data/*
+!data/arithmetic_v1.json
 results/*
 !results/.gitkeep
